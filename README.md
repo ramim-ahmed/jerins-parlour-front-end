@@ -1,6 +1,6 @@
 # Jerin's Parlour || MERN PROJECT
 
-<span>Project Preview : <a href ="https://meta-tourism-bd.web.app/">Live Preview</a></span>
+<span>Project Preview : <a href ="https://jerins-parlour-ce7f2.web.app/">Live Preview</a></span>
 
 <div></div> <br>
 <h3>Technology Used</h3>
