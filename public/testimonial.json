@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/JsXV8Pt/Ellipse-90.png",
+    "name": "Nash Patrik",
+    "designation": "CEO, Manpol",
+    "comments": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/8r7B3hM/Ellipse-91.png",
+    "name": "Miriam Barron",
+    "designation": "CEO, Manpol",
+    "comments": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product.",
+    "rating": 3.5
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/9t3hNxC/Ellipse-92.png",
+    "name": "Bria Malone",
+    "designation": "CEO, Manpol",
+    "comments": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product.",
+    "rating": 3.5
+  }
+]
